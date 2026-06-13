@@ -949,3 +949,33 @@ ul {
     font-size: 0.8em;
     margin-left: 5px;
 }
+
+/* Updated Area Cards Styles for Detailed Text */
+.area-card {
+    padding: 25px 20px;
+    text-align: left;
+}
+.area-icon {
+    font-size: 2.2rem;
+    margin-bottom: 12px;
+}
+.area-desc {
+    color: var(--text-secondary);
+    font-size: 0.95rem;
+    line-height: 1.5;
+    margin-top: 10px;
+}
+
+/* Updated Project Cards Detail Styles */
+.project-details p {
+    margin-bottom: 10px;
+    font-size: 0.95rem;
+}
+
+/* Calisma Yaklasimim Styles */
+#calisma-yaklasimim .career-content {
+    background-color: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-radius: var(--border-radius);
+    padding: 30px;
+}
